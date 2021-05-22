@@ -11,7 +11,9 @@ body{
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
-	background: #FFC0CB;
+	background: #ff6e7f;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #f7bfbe, #E6E6FA);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #ff6e7f, #E6E6FA);
 }
 
 .inputBox{

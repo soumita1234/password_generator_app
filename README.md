@@ -12,13 +12,6 @@
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)](https://github.com/soumita1234/password_generator_app)&nbsp;
 [![helping-hand](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?color=blue)](https://soumita1234.github.io/password_generator_app/)&nbsp;
 
-[![GitHub stars](https://img.shields.io/github/stars/soumita1234/password_generator_app)](https://github.com/soumita1234/password_generator_app/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/soumita1234/password_generator_app)](https://github.com/soumita1234/password_generator_app/network/members)
-[![GitHub Contributers](https://img.shields.io/github/contributors/soumita1234/password_generator_app)](https://github.com/soumita1234/password_generator_app/graphs/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/soumita1234/password_generator_app)](https://github.com/soumita1234/password_generator_app/issues)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/soumita1234/password_generator_app)](https://github.com/soumita1234/password_generator_app/pulls)
-[![GitHub closed-issues](https://img.shields.io/github/issues-closed-raw/soumita1234/password_generator_app)](https://github.com/soumita1234/password_generator_app/pulls)
-[![GitHub closed-prs](https://img.shields.io/github/issues-pr-closed-raw/soumita1234/password_generator_app)](https://github.com/soumita1234/password_generator_app/pulls)
 
 ## 💻Tech Stack
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/soumita1234/password_generator_app/search?l=html)&nbsp;

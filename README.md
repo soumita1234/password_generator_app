@@ -1,10 +1,11 @@
 
 <h1 align="center"> Password Generator </h1>
 
-<h4 aligh="center"> Creat Random Password By Just a Click. </h4>
+<h4 aligh="center"> 📌Creat Random Password By Just a Click. </h4>
 
-[View Live](https://soumita1234.github.io/password_generator_app/
-) 🙌
+<p align="left"><img width=50% src="https://user-images.githubusercontent.com/58908901/122038900-b574a680-cdf3-11eb-9734-70ef0d154c43.JPG"></p>
+
+[View Live](https://soumita1234.github.io/password_generator_app/) 🙌 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/soumita1234/password_generator_app)&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/soumita1234/password_generator_app)&nbsp;
